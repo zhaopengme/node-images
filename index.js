@@ -1,4 +1,4 @@
-var rd = require('rd');
+<p></p><p>var rd = require('rd');
 // 同步列出目录下的所有文件
 // var files = rd.readSync('/Users/zhaopeng/GitBook/Library/zhaopengme/gitbook/_resource');
 var files = rd.readFilterSync('/Users/zhaopeng/GitBook/Library/zhaopengme/gitbook/_resource', /\.png|jpg$/);
@@ -35,3 +35,4 @@ images(sourceImg)
     .draw(watermarkImg, sWidth - wmWidth - 10, sHeight - wmHeight - 10)
     // 保存格式会自动识别
     .save(savePath);
+</p><p></p>

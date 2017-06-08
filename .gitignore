@@ -1,4 +1,4 @@
-lib-cov
+<p>lib-cov
 /node_modules
 /test/output*
 .idea
@@ -24,3 +24,4 @@ logs
 results
 
 npm-debug.log
+</p>
