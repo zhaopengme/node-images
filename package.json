@@ -1,4 +1,4 @@
-<p></p><p>{
+{
   "name": "resource",
   "version": "1.0.0",
   "description": "",
@@ -13,4 +13,3 @@
     "rd": "^1.0.0"
   }
 }
-</p><p></p>
