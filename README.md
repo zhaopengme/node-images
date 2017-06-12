@@ -138,19 +138,24 @@ a
 sd
 f
 sad
+
+f
+
+
+
 <<<<<<< HEAD
 f
-
-
-=======
-
-f
 >>>>>>>
+=======
+>>>>>>> 518e95c8ff7cf536c405efb1c5c319ac24ac8f51
 
 
 
 
+<<<<<<< HEAD
 
 
 
 82fa3e99ed26810bb2df1f2ddb32bc0b23cf50b0
+=======
+>>>>>>> 518e95c8ff7cf536c405efb1c5c319ac24ac8f51
