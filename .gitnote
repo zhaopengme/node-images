@@ -1,0 +1,13 @@
+{
+  "config": {
+    "gitRepository": "23423",
+    "gitLocal": "/Users/zhaopeng/Projects/github/node-images",
+    "gitBranch": "master",
+    "gitEmail": "imzhpe@qq.com",
+    "gitUsername": "zhaopengme",
+    "gitPassword": "",
+    "fileFilter": "234234",
+    "directoryFilter": "2342",
+    "syncInterval": "60"
+  }
+}
