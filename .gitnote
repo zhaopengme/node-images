@@ -5,23 +5,24 @@
     "syncInterval": "60",
     "imageHost": {
       "qiniu": {
-        "qiniuAccessKey": "23",
-        "qiniuSecretKey": "23",
-        "qiniuUrl": "23",
-        "qiniuBucketName": "23"
+        "qiniuAccessKey": "abc",
+        "qiniuSecretKey": "abc",
+        "qiniuUrl": "fac",
+        "qiniuBucketName": "adf"
       },
       "youpai": {
-        "qiniuAccessKey": "2",
-        "qiniuSecretKey": "4",
-        "qiniuUrl": "23",
-        "qiniuBucketName": "23"
+        "qiniuAccessKey": "adf",
+        "qiniuSecretKey": "adf",
+        "qiniuUrl": "adf",
+        "qiniuBucketName": "adf"
       },
       "smms": {
-        "qiniuAccessKey": "2",
-        "qiniuSecretKey": "2",
-        "qiniuUrl": "2",
-        "qiniuBucketName": "2"
-      }
+        "qiniuAccessKey": "asdf",
+        "qiniuSecretKey": "adf",
+        "qiniuUrl": "adf",
+        "qiniuBucketName": "adf"
+      },
+      "imageDefault": "smms"
     }
   }
 }
