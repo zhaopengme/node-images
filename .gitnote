@@ -5,22 +5,19 @@
     "syncInterval": "60",
     "imageHost": {
       "qiniu": {
-        "qiniuAccessKey": "534",
-        "qiniuSecretKey": "53",
-        "qiniuUrl": "34",
-        "qiniuBucketName": "34"
+        "accessKey": "2342",
+        "secretKey": "3422",
+        "url": "34234",
+        "bucketName": "2342343"
       },
       "youpai": {
-        "qiniuAccessKey": "阿道夫",
-        "qiniuSecretKey": "大师傅",
-        "qiniuUrl": "234",
-        "qiniuBucketName": "234"
+        "accessKey": "23423",
+        "secretKey": "4234",
+        "url": "2342",
+        "bucketName": "34234"
       },
       "smms": {
-        "qiniuAccessKey": "345",
-        "qiniuSecretKey": "345",
-        "qiniuUrl": "345",
-        "qiniuBucketName": "345"
+        "postUrl": "24234"
       },
       "imageDefault": "youpai"
     }
