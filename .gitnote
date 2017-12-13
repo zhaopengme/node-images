@@ -2,6 +2,26 @@
   "config": {
     "gitEmail": "imzhpe@qq.com",
     "gitPassword": "",
-    "syncInterval": "60"
+    "syncInterval": "60",
+    "imageHost": {
+      "qiniu": {
+        "qiniuAccessKey": "23",
+        "qiniuSecretKey": "23",
+        "qiniuUrl": "23",
+        "qiniuBucketName": "23"
+      },
+      "youpai": {
+        "qiniuAccessKey": "2",
+        "qiniuSecretKey": "4",
+        "qiniuUrl": "23",
+        "qiniuBucketName": "23"
+      },
+      "smms": {
+        "qiniuAccessKey": "2",
+        "qiniuSecretKey": "2",
+        "qiniuUrl": "2",
+        "qiniuBucketName": "2"
+      }
+    }
   }
 }
