@@ -3,7 +3,7 @@
 $.ajax({ 
     url: 'https://api.imgur.com/3/image',
     headers: {
-        'Authorization': 'Client-ID YOUR_CLIENT_ID'
+        'Authorization': 'Client-ID b7f2b620ed31f19'
     },
     type: 'POST',
     data: {
@@ -11,3 +11,7 @@ $.ajax({
     },
     success: function() { console.log('cool'); }
 });
+
+b7f2b620ed31f19
+
+3152dd770152b290a46371dd526081e0e1eeda56
