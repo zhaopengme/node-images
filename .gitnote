@@ -7,7 +7,7 @@
       "qiniu": {
         "accessKey": "EApcMe4uiMtre0bM12MLNsle_QYp0GH_nZnvrCpt",
         "secretKey": "NL6GEkuRIllniYjSGSljXIMqCnJ4aGdAZUuJmivn",
-        "url": "zhaopengblog.u.qiniudn.com",
+        "url": "http://zhaopengblog.u.qiniudn.com/",
         "bucketName": "zhaopengblog"
       },
       "youpai": {
