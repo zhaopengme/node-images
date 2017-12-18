@@ -5,10 +5,10 @@
     "syncInterval": "60",
     "imageHost": {
       "qiniu": {
-        "accessKey": "2342",
-        "secretKey": "3422",
-        "url": "34234",
-        "bucketName": "2342343"
+        "accessKey": "EApcMe4uiMtre0bM12MLNsle_QYp0GH_nZnvrCpt",
+        "secretKey": "NL6GEkuRIllniYjSGSljXIMqCnJ4aGdAZUuJmivn",
+        "url": "zhaopengblog.u.qiniudn.com",
+        "bucketName": "zhaopengblog"
       },
       "youpai": {
         "accessKey": "23423",
