@@ -19,6 +19,7 @@
       "smms": {
         "postUrl": "24234"
       },
+      "imgur": {},
       "imageDefault": "qiniu"
     }
   }
