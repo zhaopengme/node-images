@@ -2,25 +2,6 @@
   "config": {
     "gitEmail": "imzhpe@qq.com",
     "gitPassword": "",
-    "syncInterval": "60",
-    "imageHost": {
-      "qiniu": {
-        "accessKey": "EApcMe4uiMtre0bM12MLNsle_QYp0GH_nZnvrCpt",
-        "secretKey": "NL6GEkuRIllniYjSGSljXIMqCnJ4aGdAZUuJmivn",
-        "url": "http://zhaopengblog.u.qiniudn.com/",
-        "bucketName": "zhaopengblog"
-      },
-      "youpai": {
-        "accessKey": "23423",
-        "secretKey": "4234",
-        "url": "2342",
-        "bucketName": "34234"
-      },
-      "smms": {
-        "postUrl": "24234"
-      },
-      "imgur": {},
-      "imageDefault": "qiniu"
-    }
+    "syncInterval": "60"
   }
 }
