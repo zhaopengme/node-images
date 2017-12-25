@@ -1,4 +1,0 @@
-<p>少女时代发给对方</p><pre><code>db.whatsapp_user_org.count({status:'error'})
-// db.whatsapp_user_org.count({status:'done'})
-// db.whatsapp_user_org.count({status:'ok'})
-//</code></pre><p><br></p>
